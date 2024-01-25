@@ -15,7 +15,7 @@ Some highlights:
 - [TCvis](https://suprdory.com/tcvis), [repo](https://github.com/suprdory/tcvis)
 
 
-See [suprdory.com](suprdory.com) for more.
+See [suprdory.com](https://suprdory.com) for more.
 
 
 <!--
