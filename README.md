@@ -2,17 +2,17 @@
 
 Some highlights:
 
-- [Bitmap Racer](bitmapracer.com), [repo](github.com/suprdory/bitmapRacer)
+- [Bitmap Racer](https://bitmapracer.com), [repo](https://github.com/suprdory/bitmapRacer)
 
-- [Spiralator](spiralator.com), [repo](github.com/suprdory/spiralator)
+- [Spiralator](https://spiralator.com), [repo](https://github.com/suprdory/spiralator)
 
-- [Harmonator](harmonata.com), [repo](github.com/suprdory/harmonator)
+- [Harmonator](https://harmonata.com), [repo](https://github.com/suprdory/harmonator)
 
-- [Midpoint](findthemidpoint.com), [repo](github.com/suprdory/midpoint)
+- [Midpoint](https://findthemidpoint.com), [repo](https://github.com/suprdory/midpointwebapp)
 
-- [Grain](suprdory.com/grain), [repo](github.com/suprdory/grain)
+- [Grain](https://suprdory.com/grain), [repo](https://github.com/suprdory/grain)
 
-- [TCvis](suprdory.com/tcvis), [repo](github.com/suprdory/tcvis)
+- [TCvis](https://suprdory.com/tcvis), [repo](https://github.com/suprdory/tcvis)
 
 
 See [suprdory.com](suprdory.com) for more.
