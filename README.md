@@ -1,10 +1,10 @@
-## suprdory's github
+## suprdory
 
-Some highlights:
+Welcome to my world or poorly-maintained, undocumented, uncommented but broadly functional web projects. Here are a few highlights:
 
-- [Bitmap Racer](https://bitmapracer.com), [repo](https://github.com/suprdory/bitmapRacer)
+[Bitmap Racer](https://bitmapracer.com) ([code](https://github.com/suprdory/bitmapRacer)),
 
-- [Spiralator](https://spiralator.com), [repo](https://github.com/suprdory/spiralator)
+- [Spiralator](https://spiralator.com), [code](https://github.com/suprdory/spiralator)
 
 - [Harmonator](https://harmonata.com), [repo](https://github.com/suprdory/harmonator)
 
