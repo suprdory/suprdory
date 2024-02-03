@@ -24,7 +24,7 @@ My Gran used to have these art "toys" where sand of various colours (and densiti
 
 [TCvis](https://suprdory.com/tcvis) ([code](https://github.com/suprdory/tcvis))
 
-I wanted a way to interactivel explore a synthics dataset crated as part of my day job and came up with this. Pretty good except I can't for the life of me get it to zoom on a touch screen. 
+I wanted a way to interactively explore a synthetic dataset created as part of my day job and came up with this. Pretty good except I can't for the life of me get it to zoom on a touch screen. 
 
 
 See [suprdory.com](https://suprdory.com) for more.
