@@ -18,11 +18,11 @@ After I made Spiralator, this seemed like low-hanging fruit. I'd been fascinated
 
 This is the one I should be retiring on. A genuinely brilliant idea (not mine JPB), that someone will sell to Google or Meta for millions one day. A little web app calling on a little web API that finds an equal travel-time meeting point for two or more people. Obviously my implementation is a clunky mess, it's the first and only "serious" web app I've made, but still... 
 
-[Grain](https://suprdory.com/grain) ([code](https://github.com/suprdory/grain))
+### [Grain](https://suprdory.com/grain) ([code](https://github.com/suprdory/grain))
 
 My Gran used to have these art "toys" where sand of various colours (and densities or grain size) trapped in a pseudo 2D pane would fall through a mutable air-bubble barrier, hypnotically float down through a liquid medium and settle, creating beautiful semi geometric, semi organic-looking patterns. I made a very crude version of this.
 
-[TCvis](https://suprdory.com/tcvis) ([code](https://github.com/suprdory/tcvis))
+### [TCvis](https://suprdory.com/tcvis) ([code](https://github.com/suprdory/tcvis))
 
 I wanted a way to interactively explore a synthetic dataset created as part of my day job and came up with this. Pretty good except I can't for the life of me get it to zoom on a touch screen. 
 
